@@ -4,7 +4,7 @@ An AI-powered voice receptionist that handles dental appointment bookings throug
 
 ## 📹 Demo Video
 
-[Watch Demo Video](your-loom-link-here)
+[Watch Demo Video](https://drive.google.com/file/d/1hxSMg17q-39C209_ZCxsKWLEsLdcynFZ/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 
